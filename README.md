@@ -11,12 +11,16 @@
 سپس مطابق مراحل گفته شده ساختار پروژه را ایجاد می‌کنیم و فایل‌های اصلی calculator.feature و کلاس Calculator و همچنین تعاریف استپ‌ها و سناریو را اضافه می‌کنیم و در ادامه RunnerTest.java  را نیز اضافه کرده و مراحل خواسته شده را انجام می‌دهیم:
 
 ![image](https://github.com/user-attachments/assets/720fb629-72e8-499c-978f-a1450201f68a)
-![image](https://github.com/user-attachments/assets/a677d3db-022b-4872-bc13-3b2432976b23)
-![image](https://github.com/user-attachments/assets/5fdd4a69-b0aa-4665-a8af-b85698161ac7)
-![image](https://github.com/user-attachments/assets/c4eedba5-9d06-4593-96ba-9b8129ef21fc)
+![image](https://github.com/user-attachments/assets/0ebe6a3c-6c15-4048-a74a-3e19821a5596)
+![image](https://github.com/user-attachments/assets/c01ab8e8-740a-4b76-95d1-e2494e330c57)
+![image](https://github.com/user-attachments/assets/1582810c-7e77-4a52-8e11-b5ebaeb8e9f3)
+
 
 ## بخش دوم: پاسخگویی به سوالات 
 این موارد تست کدامند؟
+در هنگام اجرای تست‌ها مطابق مراحل گفته شده، هر ۳ تست موجود به این خطا برخورد می‌کنند:
+![image](https://github.com/user-attachments/assets/62608da0-45f9-49c1-9819-0768d53fef0d)
+
 
 علت بروز مشکل چیست؟
 
