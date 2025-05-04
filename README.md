@@ -19,6 +19,7 @@
 ## بخش دوم: پاسخگویی به سوالات 
 این موارد تست کدامند؟
 در هنگام اجرای تست‌ها مطابق مراحل گفته شده، هر ۳ تست موجود به این خطا برخورد می‌کنند:
+
 ![image](https://github.com/user-attachments/assets/62608da0-45f9-49c1-9819-0768d53fef0d)
 
 
@@ -26,11 +27,17 @@
 مشکل را با تغییر کد برطرف نمایید:
 
 علت بروز این مشکل این است که زمانی که ما تست‌ها را بدون اجراکننده تست یا همان TestRunnner اجرا می‌کنیم به خطای Undefined برخورد می‌کنیم و زمانی که با تست رانر اجرا می‌کنیم خطا برطرف می‌شود:
+
 ![image](https://github.com/user-attachments/assets/aa1ad76b-834d-4d8e-808e-d0f7507d28ea)
 ![image](https://github.com/user-attachments/assets/5227e950-60ee-48c0-a008-7b774a69fd52)
 ![image](https://github.com/user-attachments/assets/fa98b866-2ebe-416f-a6a0-c99e55b9e13a)
 ![image](https://github.com/user-attachments/assets/32aa7a9e-83e8-4c25-a5bc-ea49937e4087)
 
+## بخش سوم: حل و پیاده‌سازی مسئله اول
+
+با توجه به توضیحات داده شده برای ۳ عمل ضرب و تقسیم و توان سناریو و استپ می‌نویسیم و تست برای آنها اجرا می‌کنیم.(کدهای مربوطه داخل پروژه در مخزن آورده شده اند)
+
+![image](https://github.com/user-attachments/assets/810dca3d-8b8e-4078-93eb-21a4b794b0fc)
 
 
 
