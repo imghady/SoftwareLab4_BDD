@@ -22,6 +22,15 @@
 ![image](https://github.com/user-attachments/assets/62608da0-45f9-49c1-9819-0768d53fef0d)
 
 
-علت بروز مشکل چیست؟
+علت بروز مشکل چیست؟ و 
+مشکل را با تغییر کد برطرف نمایید:
 
-مشکل را با تغییر کد برطرف نمایید.
+علت بروز این مشکل این است که زمانی که ما تست‌ها را بدون اجراکننده تست یا همان TestRunnner اجرا می‌کنیم به خطای Undefined برخورد می‌کنیم و زمانی که با تست رانر اجرا می‌کنیم خطا برطرف می‌شود:
+![image](https://github.com/user-attachments/assets/aa1ad76b-834d-4d8e-808e-d0f7507d28ea)
+![image](https://github.com/user-attachments/assets/5227e950-60ee-48c0-a008-7b774a69fd52)
+![image](https://github.com/user-attachments/assets/fa98b866-2ebe-416f-a6a0-c99e55b9e13a)
+![image](https://github.com/user-attachments/assets/32aa7a9e-83e8-4c25-a5bc-ea49937e4087)
+
+
+
+
